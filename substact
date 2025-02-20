@@ -3,4 +3,6 @@ let b = 10;
 
 let subtract = b - a;
 
+const sum = a + b;
+
 console.log(subtract);
