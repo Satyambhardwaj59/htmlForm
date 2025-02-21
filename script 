@@ -1,2 +1,5 @@
-let a = 20; 
+
+
+let a = 20;
+var name = "Satyam";
 console.log("Hello World 🌎");
