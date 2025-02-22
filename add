@@ -1,1 +1,8 @@
+var a = 20;
+var b = 40;
+
+var sum = a + b;
+
 consol.log(10 + 15 );
+
+console.log(sum);
