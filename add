@@ -1,3 +1,4 @@
+const ab = 10;
 var a = 20;
 var b = 40;
 
