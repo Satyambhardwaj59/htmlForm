@@ -6,6 +6,7 @@ var sum = a + b;
 consol.log(10 + 15 );
 
 console.log(sum);
+const ab = 10;
 
 let a = 20;
 var name = "Satyam";
