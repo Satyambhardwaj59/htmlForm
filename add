@@ -7,3 +7,4 @@ var sum = a + b;
 consol.log(10 + 15 );
 
 console.log(sum);
+console.log(ab);
