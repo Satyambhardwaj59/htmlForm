@@ -8,3 +8,6 @@ consol.log(10 + 15 );
 
 console.log(sum);
 console.log(ab);
+
+console.log(sum);
+console.log(ab);
