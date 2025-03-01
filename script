@@ -2,6 +2,7 @@ var a = 20;
 var b = 40;
 
 var sum = a + b;
+let c = 10;
 
 consol.log(10 + 15 );
 
