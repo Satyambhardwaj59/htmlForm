@@ -1,6 +1,7 @@
 const ab = 10;
 var a = 20;
 var b = 40;
+let c = 12;
 
 var sum = a + b;
 
