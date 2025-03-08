@@ -4,3 +4,4 @@ let c = 10;
 let d = 40;
 
 console.log( c + d );
+const ab= 20
