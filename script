@@ -14,7 +14,5 @@ console.log(ab);
 console.log(sum);
 console.log(ab);
 
-let a = 20;
-var name = "Satyam";
 console.log("Hello World 🌎");
 console.log(234);
