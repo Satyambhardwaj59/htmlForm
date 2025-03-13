@@ -14,5 +14,5 @@ console.log(ab);
 console.log(sum);
 console.log(ab);
 
-console.log("Hello World 🌎");
+
 console.log(234);
