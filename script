@@ -2,17 +2,12 @@ var a = 20;
 var b = 40;
 
 var sum = a + b;
-let c = 10;
-
+let c = 50;
 consol.log(10 + 15 );
 
 console.log(sum);
 const ab = 10;
 console.log(ab);
 
-
 console.log(sum);
 console.log(ab);
-
-
-console.log(234);
