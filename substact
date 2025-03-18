@@ -2,6 +2,4 @@ let a = 5;
 let b = 10;
 
 let subtract = b - a;
-
-
-console.log(subtract);
+console.log(a);
