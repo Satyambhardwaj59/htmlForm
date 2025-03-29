@@ -8,4 +8,4 @@ console.log(sum);
 const ab = 10;
 console.log(ab);
 
-console.log(sum);
+
