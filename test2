@@ -4,4 +4,3 @@ let c = 10;
 let d = 40;
 const ab= 20
 console.log( c + d );
-console.log("Satyam");
