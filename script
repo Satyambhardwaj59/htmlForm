@@ -6,6 +6,3 @@ consol.log(10 + 15 );
 
 console.log(sum);
 const ab = 10;
-console.log(ab);
-
-
